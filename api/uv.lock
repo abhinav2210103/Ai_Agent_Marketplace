@@ -1597,7 +1597,7 @@ dev = [
     { name = "types-greenlet", specifier = "~=3.1.0" },
     { name = "types-html5lib", specifier = "~=1.1.11" },
     { name = "types-jmespath", specifier = ">=1.0.2.20240106" },
-    { name = "types-jsonschema", specifier = "~=4.23.0" },
+    { name = "types-jsonschema", specifier = "~=4.25.1" },
     { name = "types-markdown", specifier = "~=3.7.0" },
     { name = "types-oauthlib", specifier = "~=3.2.0" },
     { name = "types-objgraph", specifier = "~=3.6.0" },
@@ -6233,14 +6233,14 @@ wheels = [
 
 [[package]]
 name = "types-jsonschema"
-version = "4.23.0.20250516"
+version = "4.25.1.20251009"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "referencing" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/a0/ec/27ea5bffdb306bf261f6677a98b6993d93893b2c2e30f7ecc1d2c99d32e7/types_jsonschema-4.23.0.20250516.tar.gz", hash = "sha256:9ace09d9d35c4390a7251ccd7d833b92ccc189d24d1b347f26212afce361117e", size = 14911, upload-time = "2025-05-16T03:09:33.728Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/ef/da/5b901088da5f710690b422137e8ae74197fb1ca471e4aa84dd3ef0d6e295/types_jsonschema-4.25.1.20251009.tar.gz", hash = "sha256:75d0f5c5dd18dc23b664437a0c1a625743e8d2e665ceaf3aecb29841f3a5f97f", size = 15661, upload-time = "2025-10-09T02:54:36.963Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/e6/48/73ae8b388e19fc4a2a8060d0876325ec7310cfd09b53a2185186fd35959f/types_jsonschema-4.23.0.20250516-py3-none-any.whl", hash = "sha256:e7d0dd7db7e59e63c26e3230e26ffc64c4704cc5170dc21270b366a35ead1618", size = 15027, upload-time = "2025-05-16T03:09:32.499Z" },
+    { url = "https://files.pythonhosted.org/packages/7f/6a/e5146754c0dfc272f176db9c245bc43cc19030262d891a5a85d472797e60/types_jsonschema-4.25.1.20251009-py3-none-any.whl", hash = "sha256:f30b329037b78e7a60146b1146feb0b6fb0b71628637584409bada83968dad3e", size = 15925, upload-time = "2025-10-09T02:54:35.847Z" },
 ]
 
 [[package]]
